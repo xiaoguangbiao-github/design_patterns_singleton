@@ -10,7 +10,12 @@
 - 序列化和反射是如何破坏单例的
 - 如何防止序列化和反射破坏单例  
 
-&emsp;&emsp;本项目文字描述等资料在项目根目录的pdf文件夹下。
+&emsp;&emsp;本项目属于《设计模式系列》：  
+* [《通过代码示例，讲解单例模式：2种饿汉模式的实现、4种懒汉模式实现、序列化和反射是如何破坏单例的、如何防止序列化和反射破坏单例》](https://github.com/xiaoguangbiao-github/design_patterns_singleton.git)  
+* [《通过代码示例，讲解创建型模式：工厂方法模式、抽象工厂模式、原型模式、建造者模式》](https://github.com/xiaoguangbiao-github/design_patterns_create.git)  
+* [《通过代码示例，讲解结构型模式：代理模式、适配器模式、装饰者模式、桥接模式、外观模式、组合模式、享元模式》](https://github.com/xiaoguangbiao-github/design_patterns_structure.git)  
+* [《通过代码示例，讲解行为型模式：模板方法模式、策略模式、命令模式、职责链模式、状态模式、观察者模式、中介者模式、迭代器模式、访问者模式、备忘录模式、解释器模式》](https://github.com/xiaoguangbiao-github/design_patterns_action.git)  
+
 
 
 ## 2、开发环境
